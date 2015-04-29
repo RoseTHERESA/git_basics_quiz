@@ -2,20 +2,21 @@
 
 ###What is your name?
 
-Your answer goes here
+First name: Rose
+Last name: THERESA
 
 ###What is your favorite color?
 
-Your answer goes here
+Clear
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs, dogs, dogs (especially sighthounds)
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+There is no such thing.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+My boyfriend.
